@@ -23,8 +23,8 @@
 
 - 🎓 Bachelor of IT (Hons) in Computer Application Development @ **UPTM**
 - 🚗 Building **DriveCover**, a Malaysian motor insurance PWA with AI claims handling (Final Year Project)
-- 🔬 Research Assistant
-- 💼 Open to **freelance** and **research assistant** roles
+- 🏅 Diploma in Computer Science, First Class (CGPA 3.60) · Dean's List
+- 💼 Open to **internship**, **freelance** and **research assistant** roles
 - ⚽ Football & 🎬 film when I'm not coding
 
 </td>
@@ -38,7 +38,7 @@ const adam = {
   stack: ["TypeScript", "NestJS",
           "Prisma", "Supabase"],
   learning: ["Docker", "AI integration"],
-  openTo: ["freelance", "research"],
+  openTo: ["internship", "freelance", "research"],
 };
 ```
 
