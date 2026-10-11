@@ -53,16 +53,18 @@ const adam = {
 <tr>
 <td>
 
-### 🚗 [DriveCover](https://github.com/Syafiyyy/drivecover)
+### 🚗 DriveCover
 
 B2C motor insurance platform built for the Malaysian market.
+
+<sub>🔒 Repo private until FYP submission · <a href="https://portfolio-adamsyafi.vercel.app/#drivecover">See a claim move through it on my portfolio</a> · <a href="mailto:adamsyafi133@gmail.com?subject=DriveCover%20code%20walkthrough">Code walkthrough on request</a></sub>
 
 | Area | What it does |
 |---|---|
 | 🧾 **Buy** | 5-step quote wizard, Stripe checkout, PDF e-cover note with QR |
 | 🤖 **Claims AI** | Conversational FNOL + Gemini vision damage assessment |
 | 🔁 **Lifecycle** | NCD renewals, 15-day cooling-off refunds, LHDN e-invoicing |
-| 🔒 **Security** | Row Level Security on every table · 370+ engine tests |
+| 🔒 **Security** | Row Level Security on every table · 377 engine tests |
 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
