@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adam+%F0%9F%91%8B;Building+DriveCover+%F0%9F%9A%97+insurtech+PWA+with+AI;NestJS+%E2%80%A2+Prisma+%E2%80%A2+Supabase+%E2%80%A2+Stripe;Open+to+freelance+%26+research+work" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://portfolio-blond-nu-58.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-adamsyafi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adam-syafi-430919326"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:adamsyafi133@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Based_in-Malaysia_🇲🇾-0f172a?style=for-the-badge"/>
